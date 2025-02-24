@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "apidoc": "^0.17.7"
+  }
+}
